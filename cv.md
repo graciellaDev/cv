@@ -5,7 +5,7 @@
 ### Contact information:
 + __location__: Belarus, Cherikov
 + __phone__: +375 (33) 693-34-73
-+ __email 1__: gravielladesign@gmail.ru
++ __email 1__: gravielladesign@gmail.com
 + __email 2__: graviella@mail.ru
 + __telegram__: @graviellaDev
 ___
@@ -19,12 +19,13 @@ ___
 
 >Every project I worked on became my brainchild, for which I am very worried. I try to be very responsible in development.
 
-### Skils
+### Skills
 ___
 * HTML
 * CSS
 * JavaScript
 * PHP
+* Rest API
 * CMS Wordpress, Opencart, Joomla
 
 ### Code Exampe
